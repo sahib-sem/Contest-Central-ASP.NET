@@ -1,30 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "/home/sahib/contest-central-g4-aait-team3/backend/Application.Tests/Application.Tests.csproj": {}
+    "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Application.Tests\\Application.Tests.csproj": {}
   },
   "projects": {
-    "/home/sahib/contest-central-g4-aait-team3/backend/Application.Tests/Application.Tests.csproj": {
+    "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Application.Tests\\Application.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sahib/contest-central-g4-aait-team3/backend/Application.Tests/Application.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Application.Tests\\Application.Tests.csproj",
         "projectName": "Application.Tests",
-        "projectPath": "/home/sahib/contest-central-g4-aait-team3/backend/Application.Tests/Application.Tests.csproj",
-        "packagesPath": "/home/sahib/.nuget/packages/",
-        "outputPath": "/home/sahib/contest-central-g4-aait-team3/backend/Application.Tests/obj/",
+        "projectPath": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Application.Tests\\Application.Tests.csproj",
+        "packagesPath": "C:\\Users\\nahom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Application.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/sahib/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\nahom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -32,19 +35,28 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.5.0, )"
+              "version": "[17.8.0, )"
             },
             "Moq": {
               "target": "Package",
-              "version": "[4.18.4, )"
+              "version": "[4.20.70, )"
             },
             "Shouldly": {
               "target": "Package",
@@ -54,17 +66,17 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.2.0, )"
+              "version": "[6.0.0, )"
             },
             "xunit": {
               "target": "Package",
-              "version": "[2.4.2, )"
+              "version": "[2.6.4, )"
             },
             "xunit.runner.visualstudio": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.4.5, )"
+              "version": "[2.5.6, )"
             }
           },
           "imports": [
@@ -83,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

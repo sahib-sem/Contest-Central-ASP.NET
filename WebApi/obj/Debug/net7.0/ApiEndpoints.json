@@ -1,0 +1,69 @@
+[
+  {
+    "ContainingType": "WebApi.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "LoginUserDto.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "LoginUserDto.Password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "RegisterUserDto.FirstName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RegisterUserDto.LastName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RegisterUserDto.CodeforcesHandle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RegisterUserDto.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RegisterUserDto.UserName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RegisterUserDto.Password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RegisterUserDto.ConfirmPassword",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
