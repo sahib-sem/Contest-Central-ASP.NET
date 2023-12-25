@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCE1180D-1C0C-4A0D-8867-0B3E1EF2894D}|WebApi\\WebApi.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-asp.net\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FCE1180D-1C0C-4A0D-8867-0B3E1EF2894D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{876D402E-585F-433B-B672-131BEB2FAFD0}|Persistence\\Persistence.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-asp.net\\persistence\\persistanceserviceregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{876D402E-585F-433B-B672-131BEB2FAFD0}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistanceserviceregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{876D402E-585F-433B-B672-131BEB2FAFD0}|Persistence\\Persistence.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-asp.net\\persistence\\contestcenterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{876D402E-585F-433B-B672-131BEB2FAFD0}|Persistence\\Persistence.csproj|solutionrelative:persistence\\contestcenterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{876D402E-585F-433B-B672-131BEB2FAFD0}|Persistence\\Persistence.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-asp.net\\persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{876D402E-585F-433B-B672-131BEB2FAFD0}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D4BF8F-D369-49B6-8155-0AA3E6E59B3A}|Domain\\Domain.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-asp.net\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4D4BF8F-D369-49B6-8155-0AA3E6E59B3A}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C38648-806F-49D4-9597-26789EEE2120}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-asp.net\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4C38648-806F-49D4-9597-26789EEE2120}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{876D402E-585F-433B-B672-131BEB2FAFD0}|Persistence\\Persistence.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-asp.net\\persistence\\repositories\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +27,16 @@
       "RelativeMoniker": "D:0:0:{876D402E-585F-433B-B672-131BEB2FAFD0}|Persistence\\Persistence.csproj|solutionrelative:persistence\\databasecontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCE1180D-1C0C-4A0D-8867-0B3E1EF2894D}|WebApi\\WebApi.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-asp.net\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCE1180D-1C0C-4A0D-8867-0B3E1EF2894D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{876D402E-585F-433B-B672-131BEB2FAFD0}|Persistence\\Persistence.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-asp.net\\persistence\\contestcenterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876D402E-585F-433B-B672-131BEB2FAFD0}|Persistence\\Persistence.csproj|solutionrelative:persistence\\contestcenterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{876D402E-585F-433B-B672-131BEB2FAFD0}|Persistence\\Persistence.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-asp.net\\persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{876D402E-585F-433B-B672-131BEB2FAFD0}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{FCE1180D-1C0C-4A0D-8867-0B3E1EF2894D}|WebApi\\WebApi.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-asp.net\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCE1180D-1C0C-4A0D-8867-0B3E1EF2894D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1180D-1C0C-4A0D-8867-0B3E1EF2894D}|WebApi\\WebApi.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-asp.net\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE1180D-1C0C-4A0D-8867-0B3E1EF2894D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCE1180D-1C0C-4A0D-8867-0B3E1EF2894D}|WebApi\\WebApi.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-asp.net\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -87,16 +95,8 @@
       "RelativeMoniker": "D:0:0:{38AEB943-C2AC-4FDD-AA2E-37BB7DAEF8C4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4C38648-806F-49D4-9597-26789EEE2120}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-asp.net\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E4C38648-806F-49D4-9597-26789EEE2120}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0116BA10-AB71-403F-965E-8CBDC264EC98}|Application.Tests\\Application.Tests.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-asp.net\\application.tests\\application.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0116BA10-AB71-403F-965E-8CBDC264EC98}|Application.Tests\\Application.Tests.csproj|solutionrelative:application.tests\\application.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4D4BF8F-D369-49B6-8155-0AA3E6E59B3A}|Domain\\Domain.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-asp.net\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B4D4BF8F-D369-49B6-8155-0AA3E6E59B3A}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4C38648-806F-49D4-9597-26789EEE2120}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-asp.net\\application\\features\\authentication\\requests\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -146,76 +146,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Persistence\\Repositories\\AuthService.cs",
-              "RelativeDocumentMoniker": "Persistence\\Repositories\\AuthService.cs",
-              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Persistence\\Repositories\\AuthService.cs",
-              "RelativeToolTip": "Persistence\\Repositories\\AuthService.cs",
-              "ViewState": "AQIAAFMAAABgZmZmZmYkwGcAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-22T20:17:30.995Z",
+              "DocumentIndex": 2,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-22T15:53:45.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Persistence",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Persistence\\Persistence.csproj",
+              "RelativeDocumentMoniker": "Persistence\\Persistence.csproj",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Persistence\\Persistence.csproj",
+              "RelativeToolTip": "Persistence\\Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-23T11:13:20.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PersistanceServiceRegisteration.cs",
               "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Persistence\\PersistanceServiceRegisteration.cs",
               "RelativeDocumentMoniker": "Persistence\\PersistanceServiceRegisteration.cs",
               "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Persistence\\PersistanceServiceRegisteration.cs",
               "RelativeToolTip": "Persistence\\PersistanceServiceRegisteration.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAgwCIAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-22T21:24:45.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-22T16:16:08.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Persistence\\Repositories\\AuthService.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\AuthService.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Persistence\\Repositories\\AuthService.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-22T20:17:30.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DatabaseContextFactory.cs",
               "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Persistence\\DatabaseContextFactory.cs",
               "RelativeDocumentMoniker": "Persistence\\DatabaseContextFactory.cs",
               "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Persistence\\DatabaseContextFactory.cs",
               "RelativeToolTip": "Persistence\\DatabaseContextFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-24T00:57:57.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ContestCenterDbContext.cs",
               "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Persistence\\ContestCenterDbContext.cs",
               "RelativeDocumentMoniker": "Persistence\\ContestCenterDbContext.cs",
               "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Persistence\\ContestCenterDbContext.cs",
               "RelativeToolTip": "Persistence\\ContestCenterDbContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-22T21:06:36.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\WebApi\\appsettings.json",
               "RelativeDocumentMoniker": "WebApi\\appsettings.json",
               "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\WebApi\\appsettings.json",
               "RelativeToolTip": "WebApi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2023-12-23T11:12:19.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\WebApi\\Program.cs",
               "RelativeDocumentMoniker": "WebApi\\Program.cs",
@@ -228,19 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Persistence.csproj",
-              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Persistence\\Persistence.csproj",
-              "RelativeDocumentMoniker": "Persistence\\Persistence.csproj",
-              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Persistence\\Persistence.csproj",
-              "RelativeToolTip": "Persistence\\Persistence.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2023-12-23T11:13:20.109Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "WebApi.csproj",
               "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\WebApi\\WebApi.csproj",
               "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
@@ -248,11 +275,12 @@
               "RelativeToolTip": "WebApi\\WebApi.csproj",
               "ViewState": "AQIAAAkAAABgZmZmZmYkwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2023-12-23T11:24:09.36Z"
+              "WhenOpened": "2023-12-23T11:24:09.36Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\WebApi\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\AuthController.cs",
@@ -260,11 +288,12 @@
               "RelativeToolTip": "WebApi\\Controllers\\AuthController.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-23T11:23:38.358Z"
+              "WhenOpened": "2023-12-23T11:23:38.358Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "RegisterUserCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Application\\Features\\Authentication\\Handlers\\Commands\\RegisterUserCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Authentication\\Handlers\\Commands\\RegisterUserCommandHandler.cs",
@@ -272,11 +301,12 @@
               "RelativeToolTip": "Application\\Features\\Authentication\\Handlers\\Commands\\RegisterUserCommandHandler.cs",
               "ViewState": "AQIAABoAAABQZmZmZmYwwCsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-22T16:44:38.368Z"
+              "WhenOpened": "2023-12-22T16:44:38.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "IAuthRepository.cs",
               "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Application\\Contracts\\IAuthRepository.cs",
               "RelativeDocumentMoniker": "Application\\Contracts\\IAuthRepository.cs",
@@ -284,11 +314,12 @@
               "RelativeToolTip": "Application\\Contracts\\IAuthRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-23T18:59:36.869Z"
+              "WhenOpened": "2023-12-23T18:59:36.869Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "UserConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Persistence\\Configurations\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "Persistence\\Configurations\\UserConfiguration.cs",
@@ -296,11 +327,12 @@
               "RelativeToolTip": "Persistence\\Configurations\\UserConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-22T21:08:19.634Z"
+              "WhenOpened": "2023-12-22T21:08:19.634Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "LoginRequestHandler.cs",
               "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Application\\Features\\Authentication\\Handlers\\Queries\\LoginRequestHandler.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Authentication\\Handlers\\Queries\\LoginRequestHandler.cs",
@@ -308,11 +340,12 @@
               "RelativeToolTip": "Application\\Features\\Authentication\\Handlers\\Queries\\LoginRequestHandler.cs",
               "ViewState": "AQIAAAMAAADgzMzMzMwgwCgAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-23T22:09:40.938Z"
+              "WhenOpened": "2023-12-23T22:09:40.938Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "LoginUserDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Application\\Dto\\Authentication\\Validator\\LoginUserDtoValidator.cs",
               "RelativeDocumentMoniker": "Application\\Dto\\Authentication\\Validator\\LoginUserDtoValidator.cs",
@@ -320,11 +353,12 @@
               "RelativeToolTip": "Application\\Dto\\Authentication\\Validator\\LoginUserDtoValidator.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-23T22:12:59.23Z"
+              "WhenOpened": "2023-12-23T22:12:59.23Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "LoginResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Application\\Dto\\Authentication\\Dto\\LoginResponseDto.cs",
               "RelativeDocumentMoniker": "Application\\Dto\\Authentication\\Dto\\LoginResponseDto.cs",
@@ -332,11 +366,12 @@
               "RelativeToolTip": "Application\\Dto\\Authentication\\Dto\\LoginResponseDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-22T16:31:12.488Z"
+              "WhenOpened": "2023-12-22T16:31:12.488Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "LoginUserDto.cs",
               "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Application\\Dto\\Authentication\\Dto\\LoginUserDto.cs",
               "RelativeDocumentMoniker": "Application\\Dto\\Authentication\\Dto\\LoginUserDto.cs",
@@ -344,11 +379,12 @@
               "RelativeToolTip": "Application\\Dto\\Authentication\\Dto\\LoginUserDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-22T16:21:29.77Z"
+              "WhenOpened": "2023-12-22T16:21:29.77Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "LoginUserRequest.cs",
               "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Application\\Features\\Authentication\\Requests\\LoginUserRequest.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Authentication\\Requests\\LoginUserRequest.cs",
@@ -356,11 +392,12 @@
               "RelativeToolTip": "Application\\Features\\Authentication\\Requests\\LoginUserRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-22T16:28:29.57Z"
+              "WhenOpened": "2023-12-22T16:28:29.57Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "RoleConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Persistence\\Configurations\\RoleConfiguration.cs",
               "RelativeDocumentMoniker": "Persistence\\Configurations\\RoleConfiguration.cs",
@@ -368,11 +405,12 @@
               "RelativeToolTip": "Persistence\\Configurations\\RoleConfiguration.cs",
               "ViewState": "AQIAABUAAABAMzMzMzMrwBsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-22T21:07:59.107Z"
+              "WhenOpened": "2023-12-22T21:07:59.107Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Domain\\Entites\\User.cs",
               "RelativeDocumentMoniker": "Domain\\Entites\\User.cs",
@@ -380,11 +418,12 @@
               "RelativeToolTip": "Domain\\Entites\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-22T15:49:35.565Z"
+              "WhenOpened": "2023-12-22T15:49:35.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "UserRoleConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Persistence\\Configurations\\UserRoleConfiguration.cs",
               "RelativeDocumentMoniker": "Persistence\\Configurations\\UserRoleConfiguration.cs",
@@ -392,11 +431,12 @@
               "RelativeToolTip": "Persistence\\Configurations\\UserRoleConfiguration.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-22T21:08:42.819Z"
+              "WhenOpened": "2023-12-22T21:08:42.819Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Infrastructure\\Infrastructure.csproj",
               "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
@@ -404,23 +444,12 @@
               "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2023-12-23T18:41:02.266Z"
+              "WhenOpened": "2023-12-23T18:41:02.266Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Application.csproj",
-              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Application\\Application.csproj",
-              "RelativeDocumentMoniker": "Application\\Application.csproj",
-              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Application\\Application.csproj",
-              "RelativeToolTip": "Application\\Application.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2023-12-22T16:16:08.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Application.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Application.Tests\\Application.Tests.csproj",
               "RelativeDocumentMoniker": "Application.Tests\\Application.Tests.csproj",
@@ -428,19 +457,8 @@
               "RelativeToolTip": "Application.Tests\\Application.Tests.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2023-12-23T18:41:22.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Domain\\Domain.csproj",
-              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
-              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\Contest-Central-ASP.NET\\Domain\\Domain.csproj",
-              "RelativeToolTip": "Domain\\Domain.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2023-12-22T15:53:45.751Z"
+              "WhenOpened": "2023-12-23T18:41:22.212Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -452,7 +470,8 @@
               "RelativeToolTip": "Application\\Features\\Authentication\\Requests\\RegisterUserRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-22T16:28:50.17Z"
+              "WhenOpened": "2023-12-22T16:28:50.17Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -464,7 +483,8 @@
               "RelativeToolTip": "Application\\Dto\\Authentication\\Dto\\RegisterUserDto.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-22T16:33:26.364Z"
+              "WhenOpened": "2023-12-22T16:33:26.364Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -476,7 +496,8 @@
               "RelativeToolTip": "Application\\ApplicationServiceRegistration.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-23T13:09:21.74Z"
+              "WhenOpened": "2023-12-23T13:09:21.74Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -488,7 +509,8 @@
               "RelativeToolTip": "Application\\Profiles\\MappingProfiles.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAABMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-22T20:10:06.496Z"
+              "WhenOpened": "2023-12-22T20:10:06.496Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -500,7 +522,8 @@
               "RelativeToolTip": "Application\\Contracts\\IUnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-23T12:44:28.444Z"
+              "WhenOpened": "2023-12-23T12:44:28.444Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -512,7 +535,8 @@
               "RelativeToolTip": "Application\\Exceptions\\ValidationException.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-23T11:31:22.993Z"
+              "WhenOpened": "2023-12-23T11:31:22.993Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -524,7 +548,8 @@
               "RelativeToolTip": "Persistence\\Repositories\\Models\\JwtSettings.cs",
               "ViewState": "AQIAAAAAAABQZmZmZmYkwAsAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-22T20:29:15.807Z"
+              "WhenOpened": "2023-12-22T20:29:15.807Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -536,7 +561,8 @@
               "RelativeToolTip": "Application\\Common\\CommonResponse.cs",
               "ViewState": "AQIAAB0AAABAMzMzMzMlwAwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-22T19:06:24.039Z"
+              "WhenOpened": "2023-12-22T19:06:24.039Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -548,7 +574,8 @@
               "RelativeToolTip": "Domain\\Entites\\Generation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-22T16:06:15.573Z"
+              "WhenOpened": "2023-12-22T16:06:15.573Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -560,7 +587,8 @@
               "RelativeToolTip": "Domain\\Entites\\Group.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-22T16:00:41.988Z"
+              "WhenOpened": "2023-12-22T16:00:41.988Z",
+              "EditorCaption": ""
             }
           ]
         }
